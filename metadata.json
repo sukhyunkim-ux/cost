@@ -1,0 +1,6 @@
+{
+  "name": "Qwen Cost and Quality Advisor",
+  "description": "Visualize cost-quality trade-offs, compute server hosting ROIs, and choose the perfect Qwen model for your business workloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
